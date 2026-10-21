@@ -29,9 +29,6 @@ KCNA
 LPIC-1
 Terraform (in progress)
 
-Currently Learning
-AWS AI & Machine Learning (Udacity Scholar)
-Terraform
 
 Connect
 LinkedIn: www.linkedin.com/in/samkelisiwe-gwala-8a88a1315
